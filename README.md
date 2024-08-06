@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakgul&label=Profile%20views&color=0e75b6&style=flat" alt="ardakgul" /> </p>
 
-- 🔭 I’m currently working on [bnti](github.com/ardakgul/bnti)
+- 🔭 I’m currently working on [bnti](bnti)
 
 - 🌱 I’m currently learning **data science.**
 
