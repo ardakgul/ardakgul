@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ardakgul4@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/ardakgul](linkedin.com/in/ardakgul)
+- 📄 Know about my experiences [linkedin.com/in/ardakgul](https://linkedin.com/in/ardakgul)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
